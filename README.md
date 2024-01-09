@@ -2,9 +2,18 @@
 
 FormCraft is a web application that allows users to create and publish forms to collect responses from their audience. It is built using modern technologies and comes with a range of features.
 
-## Live Demo
+## Live app
 
 Check out the live demo of FormCraft deployed on Vercel: [FormCraft Live Demo](https://form-craft-eta.vercel.app/)
+
+## Video Demo
+[demo video link](https://drive.google.com/file/d/1DZTLwiW-TolOpi1El7vE7OiSWeBXj6Ty/view?usp=sharing)
+
+![image](https://github.com/ShivamPatel-India/FormCraft/assets/70719016/6f370c5c-eb2a-450d-bbd8-66b7c770444d)
+
+![image](https://github.com/ShivamPatel-India/FormCraft/assets/70719016/24cf3ddf-ea5a-4f50-9db8-d9e8a996bbcb)
+
+![image](https://github.com/ShivamPatel-India/FormCraft/assets/70719016/e4953f34-0b3d-4a9a-8bb8-2fa098c35362)
 
 ## Technologies Used
 
@@ -32,7 +41,6 @@ Check out the live demo of FormCraft deployed on Vercel: [FormCraft Live Demo](h
 
 Follow these steps to set up FormCraft locally:
 
-```bash
 # 1. Install dependencies
 npm install
 
@@ -54,3 +62,10 @@ POSTGRES_URL_NON_POOLING=#
 
 # 3. Run the app
 npm run dev
+
+
+
+
+
+
+

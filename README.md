@@ -41,6 +41,7 @@ Check out the live demo of FormCraft deployed on Vercel: [FormCraft Live Demo](h
 
 Follow these steps to set up FormCraft locally:
 
+```bash
 # 1. Install dependencies
 npm install
 

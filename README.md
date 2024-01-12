@@ -4,7 +4,7 @@ FormCraft is a web application that allows users to create and publish forms to 
 
 ## Live app
 
-Check out the live demo of FormCraft deployed on Vercel: [FormCraft Live Demo](https://form-craft-eta.vercel.app/)
+Check out the live demo of FormCraft deployed on Vercel: [FormCraft Live App](https://form-craft-eta.vercel.app/)
 
 ## Video Demo
 [demo video link](https://drive.google.com/file/d/1DZTLwiW-TolOpi1El7vE7OiSWeBXj6Ty/view?usp=sharing)
